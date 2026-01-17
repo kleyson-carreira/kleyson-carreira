@@ -10,7 +10,7 @@
   <a href="https://github.com/kleyson-carreira" target="_blank"><img src="https://img.shields.io/badge/GitHub-kleyson--carreira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kleyson-carreira&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=kleyson-carreira&theme=onestar&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -147,16 +147,24 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyson-carreira&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyson-carreira&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages">
+  <a href="https://github.com/kleyson-carreira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyson-carreira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/kleyson-carreira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyson-carreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleyson-carreira&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak">
+  <a href="https://github.com/kleyson-carreira">
+    <img src="https://streak-stats.demolab.com?user=kleyson-carreira&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kleyson-carreira&theme=github-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph">
+  <a href="https://github.com/kleyson-carreira">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kleyson-carreira&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
+  </a>
 </div>
 
 ---
