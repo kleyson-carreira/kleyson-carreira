@@ -57,7 +57,7 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 
 <br>
 
-<details>
+<details open>
 <summary><b>🎯 Security Focus Areas</b></summary>
 <br>
 
@@ -70,6 +70,103 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 | 📡 **Network Security** | Firewalls, VPNs, Traffic Analysis |
 
 </details>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logo=rocket&logoColor=white" alt="Rocketseat">
+  <img src="https://img.shields.io/badge/Alura-0056D2?style=for-the-badge&logo=alura&logoColor=white" alt="Alura">
+  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy">
+  <img src="https://img.shields.io/badge/IPOG-1A1A1A?style=for-the-badge&logoColor=white" alt="IPOG">
+  <img src="https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" alt="Sololearn">
+</div>
+
+<br>
+
+<details open>
+<summary><b>🔐 Security & Linux</b></summary>
+<br>
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| Segurança Cibernética | IPOG | 2020 |
+| Linux LPI Essentials: Command Line Basics | Alura | 2025 |
+| Linux LPI Essentials: Evolution and Distributions | Alura | 2025 |
+| Linux LPI Essentials: Open Source Software and Licensing | Alura | 2025 |
+| Linux LPI Essentials: Redirecting I/O | Alura | 2025 |
+| Redes Wi-Fi: criando uma rede sem fio de modo seguro | Alura | 2025 |
+| Redes: VLANs, políticas de acesso e conexão com internet | Alura | 2025 |
+
+</details>
+
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| Kubernetes: Deployments, Volumes e Escalabilidade | Alura | 2025 |
+| Kubernetes: Pods, Services e ConfigMaps | Alura | 2025 |
+| IAC com Terraform | Rocketseat | 2025 |
+| DevOps | Rocketseat | 2025 |
+| Pipelines CI/CD com GitHub Actions | Rocketseat | 2025 |
+| Containers com Docker e Docker Compose | Rocketseat | 2024 |
+| Fundamentos da Cultura DevOps | Rocketseat | 2024 |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| Introdução a automação com n8n | Rocketseat | 2025 |
+| IA + Node: Marketplace Inteligente | Rocketseat | 2025 |
+| DDD no Node.js | Rocketseat | 2025 |
+| Criando SaaS com Next.js e RBAC | Rocketseat | 2024 |
+| NestJS | Rocketseat | 2024 |
+| BFF com Node.js: Usando microsserviços | Udemy | 2024 |
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| Figma Design de interfaces do zero ao profissional 2025 | Udemy | 2025 |
+| Figma for Devs | Rocketseat | 2025 |
+| Fundamentos do React | Rocketseat | 2025 |
+| Aprofundando em Next.js | Rocketseat | 2024 |
+| Fundamentos do Next.js | Rocketseat | 2024 |
+| NLW Pocket: Mobile - React Native | Rocketseat | 2024 |
+
+</details>
+
+<details open>
+<summary><b>🔌 IoT & Embedded</b></summary>
+<br>
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| Raspberry Pi Servidor: Samba, VPN, IoT e AWS S3 | Alura | 2020 |
+| Arduino: Do zero ao jogo | Alura | 2020 |
+| Arduino: Introdução à Robótica | Alura | 2020 |
+| ESP32: Detector de presença com Bluetooth Low Energy | Alura | 2020 |
+| NodeMCU e ESP8266: Medindo e publicando dados com MQTT | Alura | 2020 |
+
+</details>
+
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/kleysoncarreira/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%2050%2B%20Certifications-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="All Certifications">
+  </a>
+</div>
 
 ---
 
@@ -128,7 +225,7 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 </div>
 </details>
 
-<details>
+<details open>
 <summary><b>Tools & Others</b></summary>
 <br>
 <div align="center">
@@ -190,7 +287,5 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=kleyson-carreira&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
-
-**⭐ From [kleyson-carreira](https://github.com/kleyson-carreira) with 💙**
 
 </div>
