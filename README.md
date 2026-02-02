@@ -10,8 +10,6 @@
   <a href="https://github.com/kleyson-carreira" target="_blank"><img src="https://img.shields.io/badge/GitHub-kleyson--carreira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kleyson-carreira&theme=onestar&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
 </div>
 
 ---
@@ -238,43 +236,6 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
   <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
 </div>
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/kleyson-carreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleyson-carreira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/kleyson-carreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleyson-carreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kleyson-carreira">
-    <img src="https://streak-stats.demolab.com?user=kleyson-carreira&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kleyson-carreira">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kleyson-carreira&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
-  </a>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kleyson-carreira/kleyson-carreira/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kleyson-carreira/kleyson-carreira/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kleyson-carreira/kleyson-carreira/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
 
 ---
 
