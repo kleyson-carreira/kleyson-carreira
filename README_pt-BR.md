@@ -1,10 +1,10 @@
 <div align="center">
 
-🌐 **Language:** 🇺🇸 English | [🇧🇷 Português](README_pt-BR.md) | [🇪🇸 Español](README_es.md)
+🌐 **Idioma:** [🇺🇸 English](README.md) | 🇧🇷 Português | [🇪🇸 Español](README_es.md)
 
-# 👋 Hey, I'm Kleyson Carreira
+# 👋 Olá, sou Kleyson Carreira
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+Security+Enthusiast;Building+the+future+with+code+since+2013;Passionate+about+Ethical+Hacking+%F0%9F%94%90;Always+learning%2C+always+evolving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack+%7C+Entusiasta+de+Seguran%C3%A7a;Construindo+o+futuro+com+c%C3%B3digo+desde+2013;Apaixonado+por+Ethical+Hacking+%F0%9F%94%90;Sempre+aprendendo%2C+sempre+evoluindo)](https://git.io/typing-svg)
 
 <p>
   <a href="https://kleyson.org" target="_blank"><img src="https://img.shields.io/badge/Website-kleyson.org-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
@@ -16,53 +16,53 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre Mim
 
 ```typescript
 const kleyson = {
-  location: "Brazil 🇧🇷",
-  role: "Full Stack Developer & Security Enthusiast",
-  experience: "10+ years building digital solutions"
+  localizacao: "Brasil 🇧🇷",
+  funcao: "Desenvolvedor Full Stack & Entusiasta de Segurança",
+  experiencia: "10+ anos construindo soluções digitais"
 };
 ```
 
-Building the future where security meets innovation.
+Construindo o futuro onde segurança encontra inovação.
 
-With 10+ years of experience in software development, I've evolved from a passionate teenager coding at 14 to a Full Stack Developer now diving deep into Cybersecurity and Ethical Hacking.
+Com mais de 10 anos de experiência em desenvolvimento de software, evoluí de um adolescente apaixonado programando aos 14 anos para um Desenvolvedor Full Stack agora mergulhando profundamente em Cybersecurity e Ethical Hacking.
 
-**💡 What I Do:**
+**💡 O Que Eu Faço:**
 
-I architect and build secure, scalable applications that solve real business problems. Currently leading the technical development of ZapYou, a multi-tenant WhatsApp Business automation platform serving SMEs in Brazil.
+Eu projeto e construo aplicações seguras e escaláveis que resolvem problemas reais de negócio. Atualmente liderando o desenvolvimento técnico da ZapYou, uma plataforma multi-tenant de automação do WhatsApp Business atendendo PMEs no Brasil.
 
-**🛠️ Technical Expertise:**
+**🛠️ Expertise Técnica:**
 
 → Frontend: React, Next.js, Vue.js, TypeScript, Tailwind CSS
 → Backend: Node.js, Fastify, NestJS, Prisma, Python
 → DevOps: Docker, Kubernetes, Terraform, CI/CD, GitHub Actions
 → Cloud: AWS, Google Cloud, Cloudflare
-→ Databases: PostgreSQL, MongoDB, Redis
-→ Security: OWASP, Penetration Testing, Network Security
+→ Bancos de Dados: PostgreSQL, MongoDB, Redis
+→ Segurança: OWASP, Testes de Penetração, Segurança de Redes
 
-**🎯 Current Focus:**
+**🎯 Foco Atual:**
 
-Expanding my expertise into Ethical Hacking and Application Security. I believe that understanding how to break systems makes you better at building secure ones. Currently training on TryHackMe and pursuing security certifications.
+Expandindo minha expertise em Ethical Hacking e Segurança de Aplicações. Acredito que entender como quebrar sistemas te torna melhor em construir sistemas seguros. Atualmente treinando no TryHackMe e buscando certificações de segurança.
 
-**🚀 What Drives Me:**
+**🚀 O Que Me Motiva:**
 
-I'm passionate about automation, clean architecture, and building solutions that make a real impact. Whether it's optimizing a database query or securing an API endpoint, I approach every challenge with curiosity and determination.
+Sou apaixonado por automação, arquitetura limpa e construir soluções que causam impacto real. Seja otimizando uma query de banco de dados ou protegendo um endpoint de API, eu abordo cada desafio com curiosidade e determinação.
 
-**📫 Let's connect if you're interested in:**
+**📫 Vamos conectar se você se interessa por:**
 
-- Secure software development
-- WhatsApp Business automation
-- DevOps & Cloud Architecture
+- Desenvolvimento de software seguro
+- Automação do WhatsApp Business
+- DevOps & Arquitetura Cloud
 - Ethical Hacking & Cybersecurity
 
-Always learning, always evolving. 🚀
+Sempre aprendendo, sempre evoluindo. 🚀
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certificações
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logo=rocket&logoColor=white" alt="Rocketseat">
@@ -75,11 +75,11 @@ Always learning, always evolving. 🚀
 <br>
 
 <details open>
-<summary><b>🔐 Security & Linux</b></summary>
+<summary><b>🔐 Segurança & Linux</b></summary>
 <br>
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
+| Certificação | Emissor | Ano |
+|--------------|---------|-----|
 | Segurança Cibernética | IPOG | 2020 |
 | Linux LPI Essentials: Command Line Basics | Alura | 2025 |
 | Linux LPI Essentials: Evolution and Distributions | Alura | 2025 |
@@ -94,8 +94,8 @@ Always learning, always evolving. 🚀
 <summary><b>☁️ DevOps & Cloud</b></summary>
 <br>
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
+| Certificação | Emissor | Ano |
+|--------------|---------|-----|
 | Kubernetes: Deployments, Volumes e Escalabilidade | Alura | 2025 |
 | Kubernetes: Pods, Services e ConfigMaps | Alura | 2025 |
 | IAC com Terraform | Rocketseat | 2025 |
@@ -110,8 +110,8 @@ Always learning, always evolving. 🚀
 <summary><b>⚙️ Backend</b></summary>
 <br>
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
+| Certificação | Emissor | Ano |
+|--------------|---------|-----|
 | Introdução a automação com n8n | Rocketseat | 2025 |
 | IA + Node: Marketplace Inteligente | Rocketseat | 2025 |
 | DDD no Node.js | Rocketseat | 2025 |
@@ -125,8 +125,8 @@ Always learning, always evolving. 🚀
 <summary><b>🎨 Frontend</b></summary>
 <br>
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
+| Certificação | Emissor | Ano |
+|--------------|---------|-----|
 | Figma Design de interfaces do zero ao profissional 2025 | Udemy | 2025 |
 | Figma for Devs | Rocketseat | 2025 |
 | Fundamentos do React | Rocketseat | 2025 |
@@ -137,11 +137,11 @@ Always learning, always evolving. 🚀
 </details>
 
 <details open>
-<summary><b>🔌 IoT & Embedded</b></summary>
+<summary><b>🔌 IoT & Embarcados</b></summary>
 <br>
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
+| Certificação | Emissor | Ano |
+|--------------|---------|-----|
 | Raspberry Pi Servidor: Samba, VPN, IoT e AWS S3 | Alura | 2020 |
 | Arduino: Do zero ao jogo | Alura | 2020 |
 | Arduino: Introdução à Robótica | Alura | 2020 |
@@ -153,7 +153,7 @@ Always learning, always evolving. 🚀
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/kleysoncarreira/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%2080%2B%20Certifications-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="All Certifications">
+    <img src="https://img.shields.io/badge/Ver%20Todas%20as%2080%2B%20Certifica%C3%A7%C3%B5es-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Todas as Certificações">
   </a>
 </div>
 
@@ -190,7 +190,7 @@ Always learning, always evolving. 🚀
 </details>
 
 <details open>
-<summary><b>Database</b></summary>
+<summary><b>Banco de Dados</b></summary>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -215,7 +215,7 @@ Always learning, always evolving. 🚀
 </details>
 
 <details open>
-<summary><b>Ethical Hacking & Security</b></summary>
+<summary><b>Ethical Hacking & Segurança</b></summary>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
@@ -228,7 +228,7 @@ Always learning, always evolving. 🚀
 </details>
 
 <details open>
-<summary><b>Tools & Others</b></summary>
+<summary><b>Ferramentas & Outros</b></summary>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
@@ -240,4 +240,3 @@ Always learning, always evolving. 🚀
   <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
 </div>
 </details>
-
