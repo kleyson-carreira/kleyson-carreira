@@ -30,47 +30,6 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 
 ---
 
-## 🔐 Ethical Hacking & Security
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/kleysoncarreira" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/kleysoncarreira.png" alt="TryHackMe Badge" height="90">
-</a>
-
-**Currently learning on TryHackMe** 🎯
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-</div>
-
-<br>
-
-<details open>
-<summary><b>🎯 Security Focus Areas</b></summary>
-<br>
-
-| Area | Description |
-|------|-------------|
-| 🌐 **Web Application Security** | OWASP Top 10, XSS, SQL Injection, CSRF |
-| 🔍 **Penetration Testing** | Network & Web App Pentesting |
-| 🛡️ **Defensive Security** | Hardening, Monitoring, Incident Response |
-| 🔑 **Authentication & Authorization** | OAuth, JWT, Session Management |
-| 📡 **Network Security** | Firewalls, VPNs, Traffic Analysis |
-
-</details>
-
----
-
 ## 🎓 Certifications
 
 <div align="center">
@@ -162,7 +121,7 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/kleysoncarreira/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%2050%2B%20Certifications-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="All Certifications">
+    <img src="https://img.shields.io/badge/View%20All%2080%2B%20Certifications-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="All Certifications">
   </a>
 </div>
 
@@ -224,6 +183,19 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 </details>
 
 <details open>
+<summary><b>Ethical Hacking & Security</b></summary>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+</div>
+</details>
+
+<details open>
 <summary><b>Tools & Others</b></summary>
 <br>
 <div align="center">
@@ -237,16 +209,3 @@ Apaixonado por tecnologia desde os 14 anos, iniciei minha jornada em programaç�
 </div>
 </details>
 
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-<p>
-  <i>"Security is not a product, but a process."</i> — Bruce Schneier
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=kleyson-carreira&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
-
-</div>
