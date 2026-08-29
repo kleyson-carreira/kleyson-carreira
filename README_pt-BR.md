@@ -1,242 +1,63 @@
 <div align="center">
 
-🌐 **Idioma:** [🇺🇸 English](README.md) | 🇧🇷 Português | [🇪🇸 Español](README_es.md)
+# Kleyson Carreira
 
-# 👋 Olá, sou Kleyson Carreira
+**CTO e Co-fundador da ZapYou** · Software Engineer · Application Security
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack+%7C+Entusiasta+de+Seguran%C3%A7a;Construindo+o+futuro+com+c%C3%B3digo+desde+2013;Apaixonado+por+Ethical+Hacking+%F0%9F%94%90;Sempre+aprendendo%2C+sempre+evoluindo)](https://git.io/typing-svg)
+Plataformas SaaS multi-tenant e automações.
+Mais de 10 anos construindo — e operando — o que entrego.
 
-<p>
-  <a href="https://kleyson.org" target="_blank"><img src="https://img.shields.io/badge/Website-kleyson.org-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/kleysoncarreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-kleysoncarreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/kleyson-carreira" target="_blank"><img src="https://img.shields.io/badge/GitHub-kleyson--carreira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+[kleyson.org](https://kleyson.org/pt) · [LinkedIn](https://www.linkedin.com/in/kleysoncarreira/) · [contato@kleyson.org](mailto:contato@kleyson.org)
+
+[English](README.md) · Português · [Español](README_es.md)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## Sobre
 
-```typescript
-const kleyson = {
-  localizacao: "Brasil 🇧🇷",
-  funcao: "Desenvolvedor Full Stack & Entusiasta de Segurança",
-  experiencia: "10+ anos construindo soluções digitais"
-};
-```
+CTO e co-fundador da ZapYou. São mais de 10 anos escrevendo software, boa parte deles resolvendo problemas de operação de empresa que ninguém quer resolver.
 
-Construindo o futuro onde segurança encontra inovação.
+Na ZapYou cuido da arquitetura e do desenvolvimento de uma plataforma de comunicação via WhatsApp Business integrada à Cloud API da Meta como Tech Provider, em que cada cliente opera a própria WABA, sem camada de revenda. O trabalho do dia a dia é isolamento de dados por tenant na camada de ORM, entrega idempotente de mensagens com webhooks que chegam fora de ordem e LGPD resolvida no desenho do sistema.
 
-Com mais de 10 anos de experiência em desenvolvimento de software, evoluí de um adolescente apaixonado programando aos 14 anos para um Desenvolvedor Full Stack agora mergulhando profundamente em Cybersecurity e Ethical Hacking.
+Em paralelo, atendo pela ARIERRAC INC com software sob demanda e mantenho projetos open source, entre eles uma ferramenta de agendamento e verificação de backups de banco de dados. No IPOG desenvolvo os sistemas internos que várias unidades usam no Brasil, e no Espaço Paulista respondo pela rede e pela transmissão ao vivo dos eventos. São contextos bem diferentes, mas o problema costuma ser o mesmo: entender a operação antes de escrever código.
 
-**💡 O Que Eu Faço:**
+## Como eu trabalho
 
-Eu projeto e construo aplicações seguras e escaláveis que resolvem problemas reais de negócio. Atualmente liderando o desenvolvimento técnico da ZapYou, uma plataforma multi-tenant de automação do WhatsApp Business atendendo PMEs no Brasil.
+**Entendo o problema de negócio antes de escolher a tecnologia.** Boa parte das decisões que tomo é sobre o que não construir.
 
-**🛠️ Expertise Técnica:**
+**Opero o que construo.** Servidores próprios, Docker, Cloudflare, observabilidade e resposta a incidente. Isso muda a forma como se escreve código.
 
-→ Frontend: React, Next.js, Vue.js, TypeScript, Tailwind CSS
-→ Backend: Node.js, Fastify, NestJS, Prisma, Python
-→ DevOps: Docker, Kubernetes, Terraform, CI/CD, GitHub Actions
-→ Cloud: AWS, Google Cloud, Cloudflare
-→ Bancos de Dados: PostgreSQL, MongoDB, Redis
-→ Segurança: OWASP, Testes de Penetração, Segurança de Redes
+**Segurança não é etapa final.** Faço auditoria periódica das bases que mantenho com referência em OWASP, e trato modelagem de ameaças como parte do desenho de qualquer feature que toque dado de cliente.
 
-**🎯 Foco Atual:**
+## Experiência
 
-Expandindo minha expertise em Ethical Hacking e Segurança de Aplicações. Acredito que entender como quebrar sistemas te torna melhor em construir sistemas seguros. Atualmente treinando no TryHackMe e buscando certificações de segurança.
+| Cargo | Organização | Período |
+| --- | --- | --- |
+| CTO e Co-fundador | ZapYou | 2023 — atual |
+| Full Stack Developer | IPOG São Paulo | 2020 — atual |
+| Fundador | ARIERRAC INC | 2019 — atual |
+| Gerente de T.I. | Espaço Paulista de Eventos | 2016 — atual |
 
-**🚀 O Que Me Motiva:**
+Trajetória completa em [kleyson.org](https://kleyson.org/pt).
 
-Sou apaixonado por automação, arquitetura limpa e construir soluções que causam impacto real. Seja otimizando uma query de banco de dados ou protegendo um endpoint de API, eu abordo cada desafio com curiosidade e determinação.
+## Stack
 
-**📫 Vamos conectar se você se interessa por:**
+- **Backend** — TypeScript · Node.js · Fastify · NestJS · Prisma · Python
+- **Frontend** — Next.js · React · Vue.js · Tailwind CSS
+- **Dados** — PostgreSQL · Redis · Qdrant · MongoDB · MySQL
+- **Infra e operação** — Docker · Kubernetes · Terraform · Cloudflare · NGINX · Linux · AWS · GitHub Actions
+- **Segurança** — OWASP · Threat modeling · Pentest web · Burp Suite · Nmap · Wireshark · Kali Linux
 
-- Desenvolvimento de software seguro
-- Automação do WhatsApp Business
-- DevOps & Arquitetura Cloud
-- Ethical Hacking & Cybersecurity
+## Certificações
 
-Sempre aprendendo, sempre evoluindo. 🚀
+90 certificações em segurança, cloud, backend e redes. As mais recentes são TryHackMe Pre Security (2026) e a trilha Linux LPI Essentials (2025), além do certificado em Segurança Cibernética pelo IPOG (2020).
 
----
+[Lista completa e verificável →](https://kleyson.org/pt)
 
-## 🎓 Certificações
+## Contato
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logo=rocket&logoColor=white" alt="Rocketseat">
-  <img src="https://img.shields.io/badge/Alura-0056D2?style=for-the-badge&logo=alura&logoColor=white" alt="Alura">
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy">
-  <img src="https://img.shields.io/badge/IPOG-DC2626?style=for-the-badge&logoColor=white" alt="IPOG">
-  <img src="https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white" alt="Sololearn">
-</div>
+Aberto a conversar sobre arquitetura multi-tenant, integrações com a plataforma da Meta, application security e automação de processos.
 
-<br>
-
-<details open>
-<summary><b>🔐 Segurança & Linux</b></summary>
-<br>
-
-| Certificação | Emissor | Ano |
-|--------------|---------|-----|
-| Segurança Cibernética | IPOG | 2020 |
-| Linux LPI Essentials: Command Line Basics | Alura | 2025 |
-| Linux LPI Essentials: Evolution and Distributions | Alura | 2025 |
-| Linux LPI Essentials: Open Source Software and Licensing | Alura | 2025 |
-| Linux LPI Essentials: Redirecting I/O | Alura | 2025 |
-| Redes Wi-Fi: criando uma rede sem fio de modo seguro | Alura | 2025 |
-| Redes: VLANs, políticas de acesso e conexão com internet | Alura | 2025 |
-
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br>
-
-| Certificação | Emissor | Ano |
-|--------------|---------|-----|
-| Kubernetes: Deployments, Volumes e Escalabilidade | Alura | 2025 |
-| Kubernetes: Pods, Services e ConfigMaps | Alura | 2025 |
-| IAC com Terraform | Rocketseat | 2025 |
-| DevOps | Rocketseat | 2025 |
-| Pipelines CI/CD com GitHub Actions | Rocketseat | 2025 |
-| Containers com Docker e Docker Compose | Rocketseat | 2024 |
-| Fundamentos da Cultura DevOps | Rocketseat | 2024 |
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br>
-
-| Certificação | Emissor | Ano |
-|--------------|---------|-----|
-| Introdução a automação com n8n | Rocketseat | 2025 |
-| IA + Node: Marketplace Inteligente | Rocketseat | 2025 |
-| DDD no Node.js | Rocketseat | 2025 |
-| Criando SaaS com Next.js e RBAC | Rocketseat | 2024 |
-| NestJS | Rocketseat | 2024 |
-| BFF com Node.js: Usando microsserviços | Udemy | 2024 |
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-
-| Certificação | Emissor | Ano |
-|--------------|---------|-----|
-| Figma Design de interfaces do zero ao profissional 2025 | Udemy | 2025 |
-| Figma for Devs | Rocketseat | 2025 |
-| Fundamentos do React | Rocketseat | 2025 |
-| Aprofundando em Next.js | Rocketseat | 2024 |
-| Fundamentos do Next.js | Rocketseat | 2024 |
-| NLW Pocket: Mobile - React Native | Rocketseat | 2024 |
-
-</details>
-
-<details open>
-<summary><b>🔌 IoT & Embarcados</b></summary>
-<br>
-
-| Certificação | Emissor | Ano |
-|--------------|---------|-----|
-| Raspberry Pi Servidor: Samba, VPN, IoT e AWS S3 | Alura | 2020 |
-| Arduino: Do zero ao jogo | Alura | 2020 |
-| Arduino: Introdução à Robótica | Alura | 2020 |
-| ESP32: Detector de presença com Bluetooth Low Energy | Alura | 2020 |
-| NodeMCU e ESP8266: Medindo e publicando dados com MQTT | Alura | 2020 |
-
-</details>
-
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/kleysoncarreira/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Todas%20as%2080%2B%20Certifica%C3%A7%C3%B5es-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Todas as Certificações">
-  </a>
-</div>
-
----
-
-## 🚀 Tech Stack
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</div>
-</details>
-
-<details open>
-<summary><b>Backend</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
-</details>
-
-<details open>
-<summary><b>Banco de Dados</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</div>
-</details>
-
-<details open>
-<summary><b>DevOps & Cloud</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</div>
-</details>
-
-<details open>
-<summary><b>Ethical Hacking & Segurança</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-</div>
-</details>
-
-<details open>
-<summary><b>Ferramentas & Outros</b></summary>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Insomnia-5835CC?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
-</div>
-</details>
+[contato@kleyson.org](mailto:contato@kleyson.org)
